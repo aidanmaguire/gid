@@ -1,0 +1,124 @@
+.NAV {
+	height: 75px;
+	background-color: white;
+	font-family: 'Baloo Bhai' ;
+	padding-top: 5px;
+	display: table;}
+	.TEXTONE {
+	font-family: 'Baloo Bhai';
+	float: left;
+	margin-left: 20px;
+
+	}
+	.TEXTTWO {
+	font-family: 'Baloo Bhai';
+	float: right;
+	margin-left: 700px;
+	}
+
+.bigimage {
+	height: 800px;
+	background: gainsboro;
+
+}
+	.shopfront {
+	margin: auto;
+	height: 600px; 
+	width: 100%;
+	clear: both; }
+
+
+.orange {
+	height: 850px;
+	background-color: orange;
+}
+	.boxfront {
+	background-color: aqua;
+	margin-top: 20px;
+	margin-left: 250px;
+
+	z-index: 1;
+}
+	.boxback {
+	background-color: red;
+	margin-left: 500px;
+	margin-bottom: 70px;
+}
+
+.white {
+	height: 450px;
+	background-color: beige;
+}   
+	.boxone {
+	height: 350px;
+	width: 20%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 60px;
+	margin-right: 20px;
+	background-color: brown; }
+		.imagea {
+
+} 
+	.boxtwo {
+	height: 350px;
+	width: 20%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: tan;
+}
+.boxthree {
+	height: 350px;
+	width: 20%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: gainsboro;
+}
+.boxfour {
+	height: 350px;
+	width: 20%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: yellow;
+}
+.bigimageone {
+	height: 1200px;
+	background-color: orange; }
+	.landcape {
+		margin-left: 20px;
+
+	
+	}
+	.boxleftone {
+	height: 450px;
+	width: 400px;
+	margin-left: 260px;
+	margin-right: 300px;
+	margin-top: 40px;
+	background-color: gainsboro;
+	position: absolute;
+  	z-index: 1;
+	}
+	.boxrightone {
+	height: 450px;
+	width: 400px;
+	margin-right: 300px;
+	margin-top: 5px;
+	background-color: white;
+	float: right;
+	clear: both;
+	}
+
+.footer {
+	background-color: black;
+	height: 100px; }
+	.footertext {
+	font-family: 'Baloo Bhai' ;
+
+}
